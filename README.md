@@ -17,22 +17,7 @@ f</h3>
 - Designing clean **UX/UI experiences**  
 - Working on **Vehicle Rental System, Flutter-Laravel Auth apps, and appointment systems**  
 
----
-
-### 🌱 Learning  
-- Advanced **Laravel APIs**  
-- **Flutter UI/UX**  
-- **DevOps basics (Docker, AWS, GitHub Actions)**  
-
----
-
-### 💬 Ask Me About  
-- **React, Vue, GSAP, Laravel, Flutter, UI/UX**  
-
----
-
-### 📫 Connect with Me  
-
+--
 
 ### 📫 Connect with Me  
 
@@ -78,16 +63,6 @@ f</h3>
 
 ---
 
-### 📌 Featured Projects  
-
-- 🚗 [Vehicle Rental System (Laravel)](https://github.com/creativedesk1000/vehicle-rental-system-in-laravel)  
-- 📱 [Flutter + Laravel Auth](https://github.com/creativedesk1000/Flutter---Laravel-Auth-With-screen)  
-- 💻 [Portfolio Website](https://github.com/creativedesk1000/Ahtesham-s-Portfolio)  
-- 🏥 [Medical Complex Website](https://github.com/creativedesk1000/medicalcomplex.github.io)  
-- 📅 [Flutter Laravel Appointment App](https://github.com/creativedesk1000/Flutter_Laravel_appointment_app)  
-
----
-
 ### 🏆 GitHub Trophies  
 
 <p align="center">
@@ -100,10 +75,6 @@ f</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=creativedesk1000&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=creativedesk1000&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
