@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahtesham Asif</h1>
-<h3 align="center">A passionate Frontend & Laravel Developer from India</h3>
+<h3 align="center">A passionate **Full Stack Web & App Developer** 🚀  
+
+I specialize in building **end-to-end solutions** that combine beautiful frontends with powerful backends.  
+From crafting responsive web interfaces to architecting scalable APIs and mobile applications,  
+I love turning complex problems into elegant, user-friendly digital experiences.  
+f</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=creativedesk1000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -32,6 +37,8 @@
 <a href="https://www.linkedin.com/in/ahtesham-mughal-8bb862269/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://github.com/creativedesk1000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
 <a href="https://instagram.com/mr_phoenix_1000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" /></a>
+<a href="mailto:ahteshamasif1000@gmail.com">Email Me</a>  
+<a href="https://wa.me/923001234567" target="_blank">WhatsApp Me</a>  
 </p>
 
 ---
