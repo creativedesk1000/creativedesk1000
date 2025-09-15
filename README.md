@@ -34,19 +34,21 @@ f</h3>
 ### 📫 Connect with Me  
 
 
+### 📫 Connect with Me  
+
 <p align="left">
 <a href="https://www.linkedin.com/in/ahtesham-mughal-8bb862269/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/creativedesk1000" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://instagram.com/mr_phoenix_1000" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:ahteshamasif1000@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://wa.me/923485329512" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
 </a>
