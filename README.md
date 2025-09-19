@@ -71,11 +71,7 @@ f</h3>
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creativedesk1000&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativedesk1000&layout=compact&theme=radical" alt="Top Languages" />
